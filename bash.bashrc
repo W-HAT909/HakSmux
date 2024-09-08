@@ -9,8 +9,8 @@
 
 # tampilan
 cd
-cd ../usr/etc/TermiMux
-python TermiMux.py
+cd ../usr/etc/HakSmux
+python HakScreen.py
 cd
 
 shopt -s histappend
