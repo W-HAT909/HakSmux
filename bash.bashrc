@@ -9,7 +9,7 @@
 
 # tampilan
 cd
-cd ../usr/etc/HakSmux
+cd ../usr/etc/HakSmuX
 python HakScreen.py
 cd
 
